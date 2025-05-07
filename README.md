@@ -140,7 +140,7 @@ mvn spring-boot:run
 
 ### 5. Access Points
 - API Base URL: http://localhost:8080
-- Swagger UI: http://localhost:8080/swagger-ui.html
+- Swagger UI: http://localhost:8080/api/swagger-ui/index.html
 
 ## API Endpoints
 
